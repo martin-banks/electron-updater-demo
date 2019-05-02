@@ -1,0 +1,4 @@
+owner: ZaninAndrea
+repo: electron-autoupdate-example
+provider: github
+token: $$YOURTOKEN$$

@@ -1,0 +1,10 @@
+version: 0.1.10
+files:
+  - url: electronautoupdate-0.1.10-mac.zip
+    sha512: NKLIf36GwTNrgt8PbBpaxvDBa+S44lnwLRSzb+SrJGGAVy7UZj9MM+2DGeEJ59oLri5FTI6rmUrQF0QN+80L0A==
+  - url: electronautoupdate-0.1.10.dmg
+    sha512: UYdQaLmstMKO13Z3JWse+A/d2UTlhHIFG8MiSK5y21mG18B15fdHKISLw9AAlqzVHGc3MavkL1wX1RIeIwTRsw==
+    size: 48418894
+path: electronautoupdate-0.1.10-mac.zip
+sha512: NKLIf36GwTNrgt8PbBpaxvDBa+S44lnwLRSzb+SrJGGAVy7UZj9MM+2DGeEJ59oLri5FTI6rmUrQF0QN+80L0A==
+releaseDate: '2019-05-02T08:02:48.607Z'

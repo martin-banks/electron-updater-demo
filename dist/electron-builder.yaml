@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: your.App.Id
+publish:
+  provider: github
+  token: $$YOURTOKEN$$
+electronVersion: 1.8.8
